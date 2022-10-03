@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+}
+.header{
+    width: 80%;
+    height: 100px;
+    background-color: darkslategray;
+    text-align: center;
+    color: whitesmoke;
+    float: left;
+    font-size: 30px;
+}
+.menu{
+    width: 20%;
+    height: 100px;
+    background-color: whitesmoke;
+    color: darkslategrey;
+    text-align: center;
+    float: right;
+}
+.nav{
+    width: 100%;
+    height: 200px;
+    background-color: grey;
+    color: black;
+    text-align: center;
+    font-size: 80px;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    width: 20%;
+    height: 400px;
+    background-color: whitesmoke;
+    color: darkslategrey;
+    text-align: center;
+    font-size: 40px;
+    float: left;
+}
+.right{
+    width: 80%;
+    overflow: hidden;
+}
+.content_1{
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+    background-color: darkslategrey;
+    color:whitesmoke;
+}
+.content_2{
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+    background-color: grey;
+    color: black;
+}
+.content{
+    overflow: hidden;
+}
+.left-content{
+    width: 20%;
+    height:400px;
+    background-color: darkslategrey;
+    color: whitesmoke;
+    text-align: center;
+    float: left;
+    font-size: 35px;
+}
+.middle-content{
+    width: 60%;
+    height: 400px;
+    background-color: whitesmoke;
+    float: left;
+}
+.right-content{
+    width: 20%;
+    height:400px;
+    background-color: darkslategrey;
+    color: whitesmoke;
+    text-align: center;
+    float: left;
+    font-size: 35px;
+}
+.top{
+    height: 30%;
+    background-color: whitesmoke;
+    color: darkslategrey;
+    font-size: 30px;
+    text-align: center;
+}
+.center{
+    height: 40%;
+    background-color: aliceblue;
+    overflow: hidden;
+}
+.bottom{
+    height: 30%;
+    background-color: whitesmoke;
+    color: darkslategrey;
+    font-size: 30px;
+    text-align: center;
+} 
+.center_left{
+    height: 100%;
+    width: 50%;
+    background-color: lightslategrey;
+    color: midnightblue;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+}
+.center_right{
+    height: 100%;
+    width: 50%;
+    background-color: lightsteelblue;
+    color:midnightblue;
+    float: right;
+    text-align: center;
+    font-size: 25px;
+}
+footer{
+    background-color: darkslategrey;
+    color: whitesmoke;
+    text-align: center;
+    height: 60px;
+}
